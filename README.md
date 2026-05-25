@@ -1,4 +1,4 @@
-# ECG Denoising and Audio Equalizer - MATLAB
+# ECG Denoising and Audio Equalizer using MATLAB
 
 A Digital Signal Processing project implemented in MATLAB focusing on ECG signal denoising and audio equalizer design using FIR and IIR filters.
 
@@ -53,3 +53,11 @@ The project includes:
 
 ## Notes
 The project demonstrates practical applications of DSP techniques in biomedical and audio engineering systems.
+
+## Project Report
+The full project report is included in this repository as `DSP.project.pdf`.
+## Results
+- Reduced noise from ECG signals using digital filtering techniques.
+- Compared FIR and IIR filter performance.
+- Visualized signals in both time and frequency domains.
+- Implemented an audio equalizer to control different frequency bands.
